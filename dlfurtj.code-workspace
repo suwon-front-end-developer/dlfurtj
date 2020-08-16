@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Client",
+			"path": "dlfurtj-client"
+		},
+		{
+			"name": "Server",
+			"path": "dlfurtj-server"
+		}
+	]
+}
